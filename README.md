@@ -1,2 +1,2 @@
-# Computing-for-Engineers-Problem-Sets
-Problem Sets for Computing for Engineers and Scientists 
+# Problem Sets for C, C++, MATLAB Course
+Problem Sets for CS for Engineers and Scientists
